@@ -6,7 +6,7 @@
 
 I'm an **Aeronautical Engineering student** currently learning how to code.
 Right now I'm writing simple programs to build a solid foundation in
-programming languages — and every chance I get, I try to connect what I'm
+programming languages and every chance I get, I try to connect what I'm
 learning to my hyperfocus: **aircraft**.
 
 - 🔭 Currently practicing the basics of **Python**
